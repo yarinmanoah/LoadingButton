@@ -2,5 +2,12 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../DogBlog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../FruitApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ObstacleRaceTask1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ObstacleRaceTask2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Parrale_finale_project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../TaxiCompanyProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../TestMakerJava" vcs="Git" />
   </component>
 </project>
