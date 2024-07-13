@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <com.example.loadingbutton.LoadingButton
+        android:id="@+id/loader"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:button_stroke_size="4dp"
+        app:button_stroke_color="@color/black"
+        app:button_text_size="16dp"
+        app:text="Click Here!"
+        app:radius_size="20dp"
+        app:button_text_color="@color/green"
+        app:progress_color="@color/red"
+        android:layout_gravity="center"/>
+
+</FrameLayout>
